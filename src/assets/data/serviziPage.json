@@ -1,0 +1,39 @@
+[
+    {
+      "title": "Consulenza di stile personalizzata",
+      "description": "I nostri esperti ti aiutano a scegliere il modello di occhiali da sole più adatto al tuo viso e al tuo stile.",
+      "svgPath": "M12 4C7.03 4 2.81 7.26 1 11.5c1.81 4.24 6.03 7.5 11 7.5s9.19-3.26 11-7.5C21.19 7.26 16.97 4 12 4zm0 13c-3.59 0-6.75-2.08-8.29-5 1.54-2.92 4.7-5 8.29-5s6.75 2.08 8.29 5c-1.54 2.92-4.7 5-8.29 5z" ,
+      "delay": "0.1s"
+    },
+    {
+      "title": "Montaggio lenti su misura",
+      "description": "Scegli lenti polarizzate, specchiate o graduate e le monteremo perfettamente sulle tue montature.",
+      "svgPath": "M4.22 4.22a.75.75 0 011.06 0l3.72 3.72 5.44-5.44a.75.75 0 011.06 1.06L9.06 9.0l3.72 3.72a.75.75 0 11-1.06 1.06L8 10.06l-3.72 3.72a.75.75 0 11-1.06-1.06L6.94 9.0 3.22 5.28a.75.75 0 010-1.06z" ,
+      "delay": "0.2s"
+    },
+    {
+      "title": "Lenti di ultima generazione",
+      "description": "I nostri materiali sono all'avanguardia e garantiscono massima protezione UV e durata nel tempo.",
+      "svgPath": "M12 2a.75.75 0 01.75.75v2.5a.75.75 0 01-1.5 0V2.75A.75.75 0 0112 2zm6.364 3.136a.75.75 0 010 1.061l-1.768 1.768a.75.75 0 11-1.06-1.06l1.768-1.768a.75.75 0 011.06 0zM21.25 11.25a.75.75 0 01.75.75h-2.5a.75.75 0 010-1.5h2.5zM17.657 17.657a.75.75 0 011.06 0l1.768 1.768a.75.75 0 11-1.06 1.06l-1.768-1.768a.75.75 0 010-1.06zM12 18.75a.75.75 0 01.75.75v2.5a.75.75 0 01-1.5 0v-2.5a.75.75 0 01.75-.75zm-5.657-1.093a.75.75 0 010 1.06l-1.768 1.768a.75.75 0 11-1.06-1.06l1.768-1.768a.75.75 0 011.06 0zM2.75 11.25a.75.75 0 01.75.75h-2.5a.75.75 0 010-1.5h2.5zm3.136-6.364a.75.75 0 011.06 0l1.768 1.768a.75.75 0 11-1.06 1.06L5.75 6.0a.75.75 0 010-1.06z" ,
+      "delay": "0.3s"
+    },
+    {
+      "title": "Protezione UV avanzata",
+      "description": "Le nostre lenti filtrano il 100% dei raggi UVA e UVB, proteggendo i tuoi occhi in ogni condizione.",
+      "svgPath": "M12 3a9 9 0 100 18 9 9 0 000-18zm0 16.5a7.5 7.5 0 110-15 7.5 7.5 0 010 15zM12 7a.75.75 0 01.75.75v4.5a.75.75 0 01-1.5 0v-4.5A.75.75 0 0112 7zm0 7a.75.75 0 110 1.5.75.75 0 010-1.5z" ,
+      "delay": "0.4s"
+    },
+    {
+      "title": "Assistenza post-vendita",
+      "description": "Servizio clienti dedicato e garanzia estesa per ogni tuo acquisto di occhiali da sole.",
+      "svgPath": "M5 13a7 7 0 0014 0h2a9 9 0 11-18 0h2zm7-7a3 3 0 00-3 3v1H8a1 1 0 000 2h1v1a3 3 0 006 0v-1h1a1 1 0 100-2h-1V9a3 3 0 00-3-3z" ,
+      "delay": "0.5s"
+    },
+    {
+      "title": "Spedizione rapida",
+      "description": "Consegna express in 24-48 ore per i tuoi occhiali da sole, ovunque tu sia.",
+      "svgPath": "M3 3h18v2H3V3zm2 4h14v13H5V7zm2 2v9h10V9H7zm2 2h6v5H9v-5z" ,
+      "delay": "0.6s"
+    }
+  ]
+  

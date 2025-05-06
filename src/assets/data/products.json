@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "name": "Occhiali da Sole Classici",
+      "description": "Eleganza senza tempo con montatura leggera e lenti polarizzate.",
+      "price": 49.99,
+      "image": "/src/assets/img/occhiali-prodotto-1.jpg",
+      "category": "occhiali"
+    },
+    {
+      "id": 2,
+      "name": "Occhiali Sportivi UV400",
+      "description": "Perfetti per attività all'aperto. Comfort e protezione garantita.",
+      "price": 59.99,
+      "image": "/src/assets/img/occhiali-prodotto-2.jpg",
+      "category": "occhiali"
+    },
+    {
+      "id": 3,
+      "name": "Design Personalizzato",
+      "description": "Crea i tuoi occhiali unici con le nostre opzioni di personalizzazione.",
+      "price": 79.99,
+      "image": "/src/assets/img/occhiali-prodotto-3.jpg",
+      "category": "occhiali"
+    },
+    {
+      "id": 4,
+      "name": "Occhiali Seconda Edizione",
+      "description": "Crea i tuoi occhiali unici con le nostre opzioni di personalizzazione.",
+      "price": 79.99,
+      "image": "/src/assets/img/occhiali-prodotto-4.jpg",
+      "category": "occhiali"
+    },
+    {
+      "id": 5,
+      "name": "Occhiali da Sole Classici",
+      "description": "Eleganza senza tempo con montatura leggera e lenti polarizzate.",
+      "price": 79.99,
+      "image": "/src/assets/img/occhiali-prodotto-5.jpg",
+      "category": "occhiali"
+    },
+    {
+      "id": 6,
+      "name": "Occhiali da Sole Aquagent",
+      "description": "Eleganza senza tempo con montatura leggera e lenti polarizzate.",
+      "price": 200.99,
+      "image": "/src/assets/img/occhiali-prodotto-6.jpg",
+      "category": "occhiali"
+    },
+    {
+      "id": 7,
+      "name": "Occhiali da Sole Aquagent UXC",
+      "description": "Eleganza senza tempo con montatura leggera e lenti polarizzate.",
+      "price": 200.99,
+      "image": "/src/assets/img/occhiali-prodotto-7.jpg",
+      "category": "occhiali"
+    }
+  ]
+  

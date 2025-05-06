@@ -1,0 +1,7 @@
+[
+    { "label": "Home", "route": "/" },
+    { "label": "Shop", "route": "/shop" },
+    { "label": "Chi siamo", "route": "/chi-siamo" },
+    { "label": "Servizi", "route": "/servizi" },
+    { "label": "Contatti", "route": "/contatti" }
+  ]

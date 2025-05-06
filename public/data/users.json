@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "name": "Walter",
+      "email": "admin@esempio.com",
+      "password": "4748d4c802a775e8db9a23ec58f0986cacdc5d2d3356d22c490a7d22331ff133",
+      "role": "admin"
+    },
+    {
+        "id": 2,
+        "name": "Mario",
+        "email": "mario@kkk.it",
+        "password": "4748d4c802a775e8db9a23ec58f0986cacdc5d2d3356d22c490a7d22331ff133",
+        "role": "customer"
+      }
+  ]
